@@ -1,5 +1,4 @@
 # Climbing Gym Scraping
----
 Scraping the data from the occupancy trackers of the walls in sheffield and storing it in a google sheet. Will attempt to display soon.
 
 ## Documentation 
